@@ -1,0 +1,1 @@
+; Inno Setup script to build installer

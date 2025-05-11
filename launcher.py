@@ -1,0 +1,1 @@
+# launcher.py with version check and Tor validation

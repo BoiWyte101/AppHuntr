@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+selenium
+phonenumbers
+colorama
+stem
+tqdm
+fpdf
+fake-useragent
